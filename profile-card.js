@@ -73,8 +73,6 @@
       }
 
       connectedCallback() {
-          // const shadowRoot = this.attachShadow({ mode: 'open' });
-          // shadowRoot.appendChild(profileTemplate.content);
       }
 
       // gathering data from element attributes
